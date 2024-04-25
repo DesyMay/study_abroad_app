@@ -41,4 +41,30 @@ To set up and run the application, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/student-agent.git
+   git clone [https://github.com/your-repo/student-agent.git](https://github.com/DesyMay/study_abroad_app.git
+2. Install the Flutter packages:
+   ```bash
+   flutter pub get
+3. Run the app on a simulator/emulator or a physical device:
+   ```bash
+   flutter run
+
+## Usage
+Once the app is installed and running, follow the onboarding instructions to set up your account. You can then explore the features of the app, including the selection of study destinations and agent-guided assistance.
+
+## Screens
+- **Onboarding Screen: Provides an introduction to the app.
+- **Terms and Conditions Screen: Displays the terms and conditions.
+- **Country Selection Screen: Allows users to select their country.
+- **Phone Verification Screen: For phone number verification.
+- **OTP Verification Screen: For OTP-based identity verification.
+- **Study Destination Selection Screen: Helps students choose their preferred study destination.
+- **Welcome Screen: The final screen that welcomes the user.
+## Contributing
+We welcome contributions to the Student-Agent app! If you'd like to contribute, please fork the repository and submit a pull request with your changes. Ensure your code adheres to our style guide and includes tests where appropriate.
+
+## License
+This project is licensed under the MIT License. Please refer to the license file for more information.
+
+
+   
