@@ -60,6 +60,15 @@ Once the app is installed and running, follow the onboarding instructions to set
 - **OTP Verification Screen: For OTP-based identity verification.
 - **Study Destination Selection Screen: Helps students choose their preferred study destination.
 - **Welcome Screen: The final screen that welcomes the user.
+## Photos
+![Startup Screen](https://github.com/DesyMay/study_abroad_app/assets/141746368/412353db-f613-4d46-987b-99f7371bae23)
+![Terms   condition](https://github.com/DesyMay/study_abroad_app/assets/141746368/0fb8a002-c65a-4051-a562-834f339c6743)
+![Get phone number - Negative Case](https://github.com/DesyMay/study_abroad_app/assets/141746368/be10cdbf-4bb0-435b-89b6-9cddc7f0aa8e)
+![Get OTP - Positive case](https://github.com/DesyMay/study_abroad_app/assets/141746368/1ab5c6a6-d210-453b-a91b-ac2e0f39e543)
+![Get OTP - Resend OTP](https://github.com/DesyMay/study_abroad_app/assets/141746368/9fb47c0f-4cb9-4fa0-ab72-13024c2bf99e)
+![Select Country](https://github.com/DesyMay/study_abroad_app/assets/141746368/ee14031b-2a12-4a3d-90fe-dfc233f26d67)
+![Select Country (1)](https://github.com/DesyMay/study_abroad_app/assets/141746368/51d0ff58-4b5a-46c7-b714-3110808d8621)
+
 ## Contributing
 We welcome contributions to the Student-Agent app! If you'd like to contribute, please fork the repository and submit a pull request with your changes. Ensure your code adheres to our style guide and includes tests where appropriate.
 
